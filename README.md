@@ -23,6 +23,6 @@ Hey everyone! These are some useful websites which can help you a lot while play
 
 [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#python)
 
-## Privilige escalation
+## Privilege escalation
 
 [GTFOBins](https://gtfobins.github.io/)
